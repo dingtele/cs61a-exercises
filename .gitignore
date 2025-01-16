@@ -1,0 +1,8 @@
+*/.ok*
+*/tests/
+*/__*
+*/ok
+*/*.ok
+*/.DS_Store
+*.pyc
+*/.DS_Store
